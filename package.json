@@ -18,7 +18,9 @@
     "react-router": "^7.6.0",
     "react-router-dom": "^7.6.0",
     "react-toastify": "^11.0.5",
-    "tailwindcss": "^4.1.7"
+    "sonner": "^2.0.3",
+    "tailwindcss": "^4.1.7",
+    "vaul": "^1.1.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
